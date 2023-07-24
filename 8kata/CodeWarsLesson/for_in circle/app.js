@@ -47,7 +47,6 @@ function giveMeFive(obj) {
     //   newArr.push(obj[key]) // то мы добовляем их в массив
     //  }
   }
-  }
   return newArr // заетем то что ты добавил в массив ты просто возращаешь это значение
 }
 
