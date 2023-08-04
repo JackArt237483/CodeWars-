@@ -25,6 +25,10 @@ function getNewStr(str,sim) {
 
 console.log(getNewStr(str,sim))
 
+//return str.split(" ").map(words => words.split("").join(sim)).join("")
+// как вариант можно решить в одну строчку
+
+
 /*
 1)Есть функция с двумя аргументами
 str - это строка и sim это аргумент на который мы будем разбивать строку
