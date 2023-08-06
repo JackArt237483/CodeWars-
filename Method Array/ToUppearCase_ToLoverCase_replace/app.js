@@ -66,3 +66,7 @@ console.log(getNewStrimng(str))
 // // заменяет какие то данные
 
 // console.log(sajfga)
+
+const number = 42;
+const numberAsString = number.toString();
+console.log(numberAsString); 
